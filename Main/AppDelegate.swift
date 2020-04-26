@@ -56,6 +56,16 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             }
             task.resume()
         }
+        // bring Fantasy Grounds back to the foreground
+        let apps = NSWorkspace.shared.runningApplications
+        for app in apps {
+            if app.localizedName == "Fantasy Grounds" {
+                if !app.isActive {
+                    app.activate(options: NSApplication.ActivationOptions.activateIgnoringOtherApps)
+                }
+            }
+        }
+
     }
 
 }
