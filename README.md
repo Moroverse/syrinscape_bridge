@@ -10,3 +10,7 @@ Syrinscape Bridge allows Syrinscape Sound Links and Fantasy Grounds Syrinscape S
 <i>Syrinscape Sound Links: https://www.dmsguild.com/product/301496/Fantasy-Grounds-Syrinscape-Sound-Links</i>
 
 <i>Fantasy Grounds Syrinscape Sound Chat Triggers: https://www.dmsguild.com/product/303885/Fantasy-Grounds-Syrinscape-Sound-Chat-Triggers</i>
+
+<i>Syrinscape Online: https://www.syrinscape.com/online/</i>
+
+<i>Fantasy Grounds Unity: https://www.fantasygrounds.com/home/FantasyGroundsUnity.php</i>
