@@ -1,6 +1,6 @@
 # syrinscape_bridge
 
-Syrinscape Bridge allows Syrinscape Sound Links and Fantasy Grounds Syrinscape Sound Chat Triggers to work correctly on macOS from Fantasy Grounds Unity (FGU) using the Syrinscape Online Player.
+Syrinscape Bridge allows Syrinscape Sound Links and Fantasy Grounds Syrinscape Sound Chat Triggers to work correctly on macOS with Fantasy Grounds Unity (FGU) and the Syrinscape Online (beta) Player.
 
 <i>Syrinscape Sound Links:</i> https://www.dmsguild.com/product/301496/Fantasy-Grounds-Syrinscape-Sound-Links
 
