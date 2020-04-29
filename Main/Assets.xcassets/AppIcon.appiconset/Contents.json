@@ -1,61 +1,61 @@
 {
   "images" : [
     {
-      "filename" : "SSBridgeIcon16.png",
+      "filename" : "SS2-16.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
-      "filename" : "SSBridgeIcon32.png",
+      "filename" : "SS2-32.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
-      "filename" : "SSBridgeIcon32-1.png",
+      "filename" : "SS2-33.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
-      "filename" : "SSBridgeIcon64.png",
+      "filename" : "SS2-64.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
-      "filename" : "SSBridgeIcon128.png",
+      "filename" : "SS2-128.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
-      "filename" : "SSBridgeIcon256.png",
+      "filename" : "SS2-256.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
-      "filename" : "SSBridgeIcon256-1.png",
+      "filename" : "SS2-257.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
-      "filename" : "SSBridgeIcon512-1.png",
+      "filename" : "SS2-512.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
-      "filename" : "SSBridgeIcon512.png",
+      "filename" : "SS2-513.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
-      "filename" : "SSBridgeIcon1024.png",
+      "filename" : "SS2-1024.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
